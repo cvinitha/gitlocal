@@ -1,3 +1,3 @@
 # gitlocal
 # Vinitha
-Hello thi is Vinitha
+Hello this is Vinitha
